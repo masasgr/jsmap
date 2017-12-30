@@ -1,0 +1,11 @@
+input.jsmap {/*padding:3px 3px 3px 22px; width:100px; line-height:1em; vertical-align:middle; background-repeat: no-repeat; background-image:none;*/}
+div.jsmap {position:absolute; overflow:hidden; display:none; width:185px; height:147px; background-color:#eeeeee; border:1px solid #a9a9a9; margin:25px 0 0; padding:0;}
+div.jsmap ul.body {position:absolute; overflow:hidden; left:0; top:23px; height:125px; width:185px; margin:0; padding:0;}
+div.jsmap ul.body li {position:absolute; display:block; margin:0; overflow:hidden; text-align:center; background-color:#ffffff; font-size:10px; cursor:pointer; border:2px solid #888888; font-family:"MS UI Gothic",sans-serif; color:#000000;}
+div.jsmap ul.body span {position:absolute; display:block; width:2px; margin:0; overflow:hidden; border-left:2px dotted #888888;}
+div.jsmap ul.header {position:absolute; overflow:hidden; height:24px; width:185px; margin:0; padding:0; background-image:url(header.gif); background-repeat:repeat-x;}
+div.jsmap ul.header li {position:absolute; display:block; margin:0; padding:0; overflow:hidden; width:92px; height:24px; line-height:24px; vertical-align:middle; top:0; font-size:11px; cursor:pointer; font-family:"MS UI Gothic",sans-serif; color:#333333;}
+div.jsmap ul.header li.left {left:0; text-align:left; background-image:url(header-left.gif); background-repeat:no-repeat; background-position:left;}
+div.jsmap ul.header li.left span {margin:0 0 0 9px;}
+div.jsmap ul.header li.right {right:0; text-align:right; background-image:url(header-right.gif); background-repeat:no-repeat; background-position:right;}
+div.jsmap ul.header li.right span {margin:0 9px 0 0;}
